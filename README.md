@@ -16,7 +16,7 @@ Example 2:
 
 Input: sentence = "leetcode"
 Output: false
- 
+
 
 Constraints:
 
