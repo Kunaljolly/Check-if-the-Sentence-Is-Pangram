@@ -17,7 +17,6 @@ Example 2:
 Input: sentence = "leetcode"
 Output: false
 
-
 Constraints:
 
 1 <= sentence.length <= 1000
